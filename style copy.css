@@ -19,7 +19,7 @@ body {
 .languages,
 .contact,
 .experience {
-    padding: 10px;
+    padding: 20px;
     min-height: 55vh;
 }
 
@@ -118,7 +118,7 @@ a {
 .skills strong {
     display: inline-block;
     font-weight: normal;
-    padding-bottom: 21px;
+    padding-bottom: 10px;
 }
 
 .education .education-content {
@@ -141,14 +141,14 @@ a {
 .edu-wrap1,
 .exp-wrap1 {
     float: right;
-    border-left: 10px solid #000;
+    border-left: 2px solid #000;
     padding-left: 20px;
 }
 
 .edu-wrap,
 .exp-wrap {
     float: left;
-    border-left: 10px solid #000;
+    border-left: 2px solid #000;
     padding-left: 20px;
 }
 
