@@ -19,8 +19,8 @@ body {
 .languages,
 .contact,
 .experience {
-    padding: 40px;
-    /* min-height: 55vh; */
+    padding: 10px;
+    min-height: 55vh;
 }
 
 .education,
@@ -31,12 +31,12 @@ body {
 }
 
 header {
-    /* text-align: center; */
-    min-height: 400px;
+    text-align: center;
+    min-height: 20vh;
     overflow: hidden;
     position: relative;
-    padding-top: 160px;
-    padding-bottom: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 header img {
